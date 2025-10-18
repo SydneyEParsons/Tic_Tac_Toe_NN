@@ -17,7 +17,7 @@ Using Keras to analyze the loss and accuracy of training the model on the game T
 - TensorFlow
 
 # Instructions:
-- Copy the code from tic_tac_toe_keras.py
+- Copy the code from tic_tac_toe_keras.ipynb
 - Download the dataset from the link: https://archive.ics.uci.edu/dataset/101/tic+tac+toe+endgame
 - Install any required imports to your virtual environment
 - Then you are all set to run your script! :)
